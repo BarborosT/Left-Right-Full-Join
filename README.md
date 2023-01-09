@@ -1,5 +1,5 @@
 # Left-Right-Full-Join
-
+https://app.patika.dev/barborost </br>
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
 
